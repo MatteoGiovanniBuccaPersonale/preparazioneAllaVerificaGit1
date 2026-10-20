@@ -1,0 +1,1 @@
+# preparazioneAllaVerificaGit1
